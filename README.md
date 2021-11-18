@@ -6,9 +6,9 @@
 
 - 🌱 I'm currently Learning Everything 🤣
 - 💻 Most used code `console.log()`.
-- 👯 I’m looking to collaborate with other developer.
-- 🎯 2021 Goals: **MERN Stack Development**
-- ✨ Fun Fact: I love to play Football.
+- 👯 I’m looking to collaborate with other developers.
+- 🎯 2021 Goals: **MERN Stack Development**.
+- ✨ Fun Fact: I love to play Football & solve programming problems.
 
 ## 🚀 Connect with me....
 
@@ -19,8 +19,6 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahabubimon)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahabubemon24@gmail.com)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mahabubimon@outlook.com)
-
-()
 
 ## 💻 Languages, Tools & Technologies:
 
@@ -44,14 +42,12 @@
 [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)](https://github.com/mahabubimon)
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mahabubimon)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/mahabubimon)
-
-<br/> <br/>
+<br/>
 
 ![:zap: GitHub stats](https://github-readme-stats.vercel.app/api?username=mahabubimon&show_icons=true&theme=dark)
-
 <br/>
-<img align="center"  alt="Mahabub's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubimon&show_icons=true" />
 
+<img align="center"  alt="Mahabub's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubimon&show_icons=true" />
 <br/>
 
 # 🚀 Some Projects
