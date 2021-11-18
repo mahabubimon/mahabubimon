@@ -5,19 +5,22 @@
 ### I'm a Learner, Programmer, Developer.
 
 - 🌱 I'm currently Learning Everything 🤣
-- 💻 Most used code `console.log()`
+- 💻 Most used code `console.log()`.
 - 👯 I’m looking to collaborate with other developer.
 - 🎯 2021 Goals: **MERN Stack Development**
 - ✨ Fun Fact: I love to play Football.
 
-## 🚀 Connect with me
+## 🚀 Connect with me....
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahabubimon/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mahabubimon)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahabubimonbd/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mahabubimon/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahabubimon)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahabubimon@outlook.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahabubemon24@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mahabubimon@outlook.com)
+
+()
 
 ## 💻 Languages, Tools & Technologies:
 
@@ -35,23 +38,21 @@
 [![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/mahabubimon)
 [![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://github.com/mahabubimon)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://github.com/mahabubimon)
-[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/mahabubimon)
-[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/mahabubimon)
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/mahabubimon)
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://github.com/mahabubimon)
-[![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://github.com/mahabubimon)
 [![Git Badge](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)](https://github.com/mahabubimon)
 [![Npm Badge](https://img.shields.io/badge/npm-d7141a?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/mahabubimon)
 [![Yarn Badge](https://img.shields.io/badge/yarn-0078D6?style=for-the-badge&logo=yarn&logoColor=white)](https://github.com/mahabubimon)
-[![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/mahabubimon)
 [![Google Chrome Badge](https://img.shields.io/badge/google_chrome-556532?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/mahabubimon)
-[![Notion Badge](https://img.shields.io/badge/notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://github.com/mahabubimon)
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/mahabubimon)
+
+<br/> <br/>
 
 ![:zap: GitHub stats](https://github-readme-stats.vercel.app/api?username=mahabubimon&show_icons=true&theme=dark)
 
 <br/>
- <img align="center"  alt="Mahabub's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubimon&show_icons=true" />
+<img align="center"  alt="Mahabub's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubimon&show_icons=true" />
+
+<br/>
 
 # 🚀 Some Projects
 
