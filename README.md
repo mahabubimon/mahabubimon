@@ -7,7 +7,7 @@
 - 🌱 I'm currently Learning Everything 🤣
 - 💻 Most used code `console.log()`.
 - 👯 I’m looking to collaborate with other developers.
-- 🎯 2021 Goals: **MERN Stack Development**.
+- 🎯 2022 Goals: **MERN Stack Development**.
 - ✨ Fun Fact: I love to play Football & solve programming problems.
 
 ## 🚀 Connect with me....
